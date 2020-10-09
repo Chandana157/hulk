@@ -1,0 +1,7 @@
+welcome
+
+1.dominos
+2. select chicken pizza
+3. order
+
+thankyou
